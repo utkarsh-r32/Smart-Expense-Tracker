@@ -58,3 +58,4 @@ The app includes:
 - bar and pie charts
 - monthly spending reports
 - fallback demo mode while env values are missing
+>>>>>>> origin/main
